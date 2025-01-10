@@ -10,8 +10,7 @@
     "background": {
       "blur": 0,
       "url": "https://raw.githubusercontent.com/reynoldyehezkiel/VendettaThemes/refs/heads/main/background.jpeg",
-      "alpha": 0.9,
-      "background-color": "#FF0000"
+      "alpha": 0.3
     },
     "plus":{
         "version":"0",
