@@ -1,18 +1,21 @@
 {
     "name": "Redy",
     "description": "Redy Shin background",
-    "authors": [
+    "authors":
+    [
         {
             "name": "@noru"
         }
     ],
     "spec": 2,
-    "background": {
+    "background":
+    {
       "url": "https://raw.githubusercontent.com/reynoldyehezkiel/VendettaThemes/refs/heads/main/background.jpeg",
       "alpha": 0.5,
       "color": "#081924"
     },
-    "plus":{
+    "plus":
+    {
         "version":"0",
         "iconpack":"rosiecord-plumpy"
     }
