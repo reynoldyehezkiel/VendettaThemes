@@ -121,7 +121,6 @@
     },
     "spec": 2,
     "background": {
-      "blur": 0,
       "url": "https://raw.githubusercontent.com/reynoldyehezkiel/VendettaThemes/refs/heads/main/background.jpeg",
       "alpha": 0.5,
       "color": "#081924"
