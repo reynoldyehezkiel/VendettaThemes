@@ -9,99 +9,14 @@
     ],
     "semanticColors":
     {
-      "HEADER_PRIMARY": [
-          "#b1bae6"
-      ],
-      "HEADER_SECONDARY": [
-          "#565f89"
-      ],
-      "TEXT_NORMAL": [
-          "#b1bae6"
+     "TEXT_NORMAL": [
+         "#b30ba7"
       ],
       "TEXT_MUTED": [
-          "#565f89"
-      ],
-      "TEXT_LINK": [
-          "#7f8cc9"
-      ],
-      "INTERACTIVE_NORMAL": [
-          "#5f647e"
-      ],
-      "INTERACTIVE_HOVER": [
-          "#a2a6c2"
-      ],
-      "INTERACTIVE_ACTIVE": [
-          "#b5bad1"
-      ],
-      "INTERACTIVE_MUTED": [
-          "#55576b" 
-      ],
-      "BACKGROUND_PRIMARY": [
-          "#1a1b26"
-      ],
-      "BACKGROUND_SECONDARY": [
-          "#171722"
-      ],
-      "BACKGROUND_SECONDARY_ALT": [
-          "#171722"
-      ],
-      "BACKGROUND_TERTIARY": [
-          "#16161e"
-      ],
-      "BACKGROUND_ACCENT": [
-          "#434461"
-      ],
-     "BACKGROUND_FLOATING": [
-          "#171722"
-      ],
-      "BACKGROUND_MOBILE_PRIMARY": [
-          "#171722"
-      ],
-      "BACKGROUND_MOBILE_SECONDARY": [
-          "#171722"
-      ],
-      "BACKGROUND_NESTED_FLOATING": [
-          "#171722"
-      ],
-     
-      "BACKGROUND_MESSAGE_HOVER": [
-          "#1a1b26"
-      ],
-      "BACKGROUND_MODIFIER_HOVER": [
-          "#1a1b26"
-      ],
-      "BACKGROUND_MODIFIER_ACTIVE": [
-          "#171722"
-      ],
-      "BACKGROUND_MODIFIER_SELECTED": [
-          "#242631"
-      ],
-      "BACKGROUND_MODIFIER_ACCENT": [
-          "#171722"
-      ],
-      "CHANNELTEXTAREA_BACKGROUND": [
-          "#171722"
-      ],
-      "CHANNELS_DEFAULT": [
-          "#5f647e"
-      ],
+          "#7b0a8a"
+       ],
       "TEXT_DANGER": [
-          "#565f89"
-      ],
-      "KEYBOARD": [
-          "#1a1b26"
-      ],
-      "CHANNEL_ICON": [
-          "#5f647e"
-      ],
-      "CHAT_BACKGROUND": [
-          "#1a1b26"
-      ],
-      "SPOILER_HIDDEN_BACKGROUND": [
-          "#16161e"
-      ],
-      "SPOILER_REVEALED_BACKGROUND": [
-          "#171722"
+          "#7b0a8a"
       ]
     },
     "spec": 2,
