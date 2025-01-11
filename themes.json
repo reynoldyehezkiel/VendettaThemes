@@ -7,6 +7,12 @@
             "name": "@noru"
         }
     ],
+    "semanticColors":
+    {
+        "CHAT_BACKGROUND": [
+          "#1a1b26"
+        ]
+    {,
     "spec": 2,
     "background":
     {
