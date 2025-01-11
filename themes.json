@@ -17,7 +17,13 @@
        ],
       "TEXT_DANGER": [
           "#7b0a8a"
-      ]
+      ],
+      "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#b30ba7"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+         "#b30ba7"
+      ],
     },
     "spec": 2,
     "background":
