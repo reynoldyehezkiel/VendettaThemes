@@ -14,7 +14,7 @@
       ],
       "TEXT_MUTED": [
           "#7b0a8a"
-       ],
+      ],
       "TEXT_DANGER": [
           "#7b0a8a"
       ],
@@ -23,7 +23,7 @@
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
          "#b30ba7"
-      ],
+      ]
     },
     "spec": 2,
     "background":
